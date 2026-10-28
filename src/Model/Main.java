@@ -13,5 +13,7 @@ public class Main {
     public static void main(String[] args){
         
         Member4.main(args);
+        Member2.main(args);
+        Member3.main(args);
     }
 }
